@@ -1,0 +1,10 @@
+{
+    "tags": [],
+    "year": 2023,
+    "begin_date": "07-01",
+    "end_date": "08-31",
+    "json_info": true,
+    "use_js": true,
+    "info_only": false,
+    "timeout": 60
+}

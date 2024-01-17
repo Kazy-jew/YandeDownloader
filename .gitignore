@@ -1,0 +1,12 @@
+
+__pycache__/
+.idea/
+assets/data/json/
+debug/
+.venv/
+.vs/
+*.log
+*.txt
+drivers/.wdm
+src/.wdm
+src/utils/.wdm

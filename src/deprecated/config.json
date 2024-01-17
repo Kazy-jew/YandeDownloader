@@ -1,0 +1,41 @@
+{
+    "yande": {
+        "location": "D:\\yande.re",
+        "year": 2016,
+        "javascript": true,
+        "prefix": "yande.re",
+        "site": "yande.re",
+        "tag": "yande",
+        "weburl": [
+            "https://yande.re/post?page={}&tags=date%3A{}-{}",
+            "https://yande.re/post/show/{}",
+            "https://yande.re/post?page={}&tags={}"
+        ]
+    },
+    "konachan": {
+        "location": "D:\\Konachan",
+        "year": 2008,
+        "javascript": true,
+        "prefix": "Konachan.com",
+        "site": "Konachan.com",
+        "tag": "konachan",
+        "weburl": [
+            "https://konachan.com/post?page={}&tags=date%3A{}-{}",
+            "https://konachan.com/post/show/{}",
+            "https://konachan.com/post?page={}&tags={}"
+        ]
+    },
+    "minitokyo": {
+        "location": "D:\\minitokyo",
+        "javascript": true,
+        "prefix": "minitokyo.net",
+        "site": "minitokyo.net",
+        "tag": "minitokyo",
+        "lastId": 757945,
+        "weburl": [
+            "http://gallery.minitokyo.net/download/{}"
+        ]
+    },
+    "chrome_profile": "AppData\\Local\\Google\\Chrome\\User Data",
+    "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+}
